@@ -1,0 +1,71 @@
+using Dominio.Entities;
+using Domain.Interfaces;
+using Infraestructura.Data;
+using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+
+namespace Infrastructure.Repositories.Repositories
+{
+    public class MedicoRepositorio : IMedicoRepositorio
+    {
+        private readonly AppDbContext _context;
+
+        public MedicoRepositorio(AppDbContext context)
+        {
+            _context = context;
+        }
+
+        public async Task<Medicos?> ObtenerPorIdAsync(Guid id)
+        {
+            return await _context.Medicos
+                                 .Include(m => m.Usuario)
+                                 .Include(m => m.Especialidad)
+                                 .FirstOrDefaultAsync(m => m.Id == id);
+        }
+
+        public async Task<IEnumerable<Medicos>> ListarTodosAsync()
+        {
+            return await _context.Medicos
+                                 .Include(m => m.Usuario)
+                                 .Include(m => m.Especialidad)
+                                 .AsNoTracking()
+                                 .ToListAsync();
+        }
+
+        public async Task CrearAsync(Medicos medico)
+        {
+            await _context.Medicos.AddAsync(medico);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task ActualizarAsync(Medicos medico)
+        {
+            _context.Medicos.Update(medico);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task EliminarAsync(Guid id)
+        {
+            var medico = await ObtenerPorIdAsync(id);
+            if (medico != null)
+            {
+                _context.Medicos.Remove(medico);
+                await _context.SaveChangesAsync();
+            }
+        }
+        
+        public async Task<Medicos?> ObtenerPorUsuarioIdAsync(Guid usuarioId)
+        {
+            return await _context.Medicos
+                                 .Include(m => m.Usuario)
+                                 .Include(m => m.Especialidad)
+                                 .FirstOrDefaultAsync(m => m.UsuarioId == usuarioId);
+        }
+
+        public Task<IEnumerable<object>> ObtenerPacientesPorMedicoAsync(Guid medicoId)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}

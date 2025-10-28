@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Api",
+    "\\Api\\Controllers",
+    "\\Application",
+    "\\Application\\UseCases",
+    "\\Application\\UseCases\\Medicos",
+    "\\Application\\UseCases\\Notificaciones",
+    "\\Application\\UseCases\\Pacientes"
+  ],
+  "SelectedNode": "\\Api\\Controllers\\EspecialidadesController.cs",
+  "PreviewInSolutionExplorer": false
+}

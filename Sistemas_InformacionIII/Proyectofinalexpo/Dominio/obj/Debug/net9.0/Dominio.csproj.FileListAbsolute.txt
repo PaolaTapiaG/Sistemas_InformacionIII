@@ -1,0 +1,56 @@
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Dominio\bin\Debug\net9.0\Dominio.deps.json
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Dominio\bin\Debug\net9.0\Dominio.dll
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Dominio\bin\Debug\net9.0\Dominio.pdb
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.AssemblyInfo.cs
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.dll
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Dominio\obj\Debug\net9.0\refint\Dominio.dll
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.pdb
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Dominio\obj\Debug\net9.0\ref\Dominio.dll
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Dominio\bin\Debug\net9.0\Dominio.deps.json
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Dominio\bin\Debug\net9.0\Dominio.dll
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Dominio\bin\Debug\net9.0\Dominio.pdb
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.dll
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\refint\Dominio.dll
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.pdb
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\ref\Dominio.dll
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Dominio\bin\Debug\net9.0\Dominio.deps.json
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Dominio\bin\Debug\net9.0\Dominio.dll
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Dominio\bin\Debug\net9.0\Dominio.pdb
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.AssemblyInfoInputs.cache
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.AssemblyInfo.cs
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.csproj.CoreCompileInputs.cache
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.dll
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\refint\Dominio.dll
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.pdb
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\ref\Dominio.dll
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Dominio\bin\Debug\net9.0\Dominio.deps.json
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Dominio\bin\Debug\net9.0\Dominio.dll
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Dominio\bin\Debug\net9.0\Dominio.pdb
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.AssemblyInfo.cs
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.dll
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\refint\Dominio.dll
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.pdb
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Dominio\obj\Debug\net9.0\ref\Dominio.dll
+C:\Users\wattfi\Documents\Sistemas de Informacion III\Sistemas_InformacionIII\Proyectofinalexpo\Dominio\bin\Debug\net9.0\Dominio.deps.json
+C:\Users\wattfi\Documents\Sistemas de Informacion III\Sistemas_InformacionIII\Proyectofinalexpo\Dominio\bin\Debug\net9.0\Dominio.dll
+C:\Users\wattfi\Documents\Sistemas de Informacion III\Sistemas_InformacionIII\Proyectofinalexpo\Dominio\bin\Debug\net9.0\Dominio.pdb
+C:\Users\wattfi\Documents\Sistemas de Informacion III\Sistemas_InformacionIII\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wattfi\Documents\Sistemas de Informacion III\Sistemas_InformacionIII\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\wattfi\Documents\Sistemas de Informacion III\Sistemas_InformacionIII\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.AssemblyInfo.cs
+C:\Users\wattfi\Documents\Sistemas de Informacion III\Sistemas_InformacionIII\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\wattfi\Documents\Sistemas de Informacion III\Sistemas_InformacionIII\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.sourcelink.json
+C:\Users\wattfi\Documents\Sistemas de Informacion III\Sistemas_InformacionIII\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.dll
+C:\Users\wattfi\Documents\Sistemas de Informacion III\Sistemas_InformacionIII\Proyectofinalexpo\Dominio\obj\Debug\net9.0\refint\Dominio.dll
+C:\Users\wattfi\Documents\Sistemas de Informacion III\Sistemas_InformacionIII\Proyectofinalexpo\Dominio\obj\Debug\net9.0\Dominio.pdb
+C:\Users\wattfi\Documents\Sistemas de Informacion III\Sistemas_InformacionIII\Proyectofinalexpo\Dominio\obj\Debug\net9.0\ref\Dominio.dll

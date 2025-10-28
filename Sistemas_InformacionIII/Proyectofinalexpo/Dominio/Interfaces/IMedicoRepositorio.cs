@@ -1,0 +1,17 @@
+using Dominio.Entities;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+
+namespace Domain.Interfaces
+{
+    public interface IMedicoRepositorio
+    {
+        Task<Medicos?> ObtenerPorIdAsync(Guid id);
+        Task<IEnumerable<object>> ObtenerPacientesPorMedicoAsync(Guid medicoId);
+        Task<IEnumerable<Medicos>> ListarTodosAsync();
+        Task CrearAsync(Medicos medico);
+        Task ActualizarAsync(Medicos medico);
+        Task EliminarAsync(Guid id);
+        Task<Medicos?> ObtenerPorUsuarioIdAsync(Guid usuarioId);
+    }
+}

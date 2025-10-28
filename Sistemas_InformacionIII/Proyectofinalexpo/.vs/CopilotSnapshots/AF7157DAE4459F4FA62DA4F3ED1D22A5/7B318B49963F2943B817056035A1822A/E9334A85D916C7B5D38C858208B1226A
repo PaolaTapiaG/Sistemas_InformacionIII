@@ -1,0 +1,16 @@
+﻿
+using Dominio.Entities;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+
+namespace Domain.Interfaces
+{
+    public interface IPacienteRepositorio
+    {
+        Task<Pacientes?> ObtenerPorIdAsync(Guid id);
+        Task<IEnumerable<Pacientes>> ListarTodosAsync();
+        Task CrearAsync(Pacientes paciente);
+        Task ActualizarAsync(Pacientes paciente);
+        Task EliminarAsync(Guid id);
+    }
+}
