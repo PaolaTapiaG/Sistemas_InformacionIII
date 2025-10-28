@@ -1,0 +1,60 @@
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Application\bin\Debug\net9.0\Application.deps.json
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Application\bin\Debug\net9.0\Application.dll
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Application\bin\Debug\net9.0\Application.pdb
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Application\bin\Debug\net9.0\Dominio.dll
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Application\bin\Debug\net9.0\Dominio.pdb
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.dll
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Application\obj\Debug\net9.0\refint\Application.dll
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.pdb
+C:\Users\PAOLA\OneDrive\Documentos\ProyectoCorregido\Proyectofinalexpo\Application\obj\Debug\net9.0\ref\Application.dll
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Application\bin\Debug\net9.0\Application.deps.json
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Application\bin\Debug\net9.0\Application.dll
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Application\bin\Debug\net9.0\Application.pdb
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Application\bin\Debug\net9.0\Dominio.dll
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Application\bin\Debug\net9.0\Dominio.pdb
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.dll
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\refint\Application.dll
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.pdb
+C:\Users\Usuario\Downloads\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\ref\Application.dll
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Application\bin\Debug\net9.0\Application.deps.json
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Application\bin\Debug\net9.0\Application.dll
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Application\bin\Debug\net9.0\Application.pdb
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Application\bin\Debug\net9.0\Dominio.dll
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Application\bin\Debug\net9.0\Dominio.pdb
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.dll
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\refint\Application.dll
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.pdb
+D:\Descargas\Proyectofinalexpo\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\ref\Application.dll
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Application\bin\Debug\net9.0\Application.deps.json
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Application\bin\Debug\net9.0\Application.dll
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Application\bin\Debug\net9.0\Application.pdb
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Application\bin\Debug\net9.0\Dominio.dll
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Application\bin\Debug\net9.0\Dominio.pdb
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.dll
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\refint\Application.dll
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\Application.pdb
+C:\Users\wattfi\Downloads\Proyectofinalexpo (2)\Proyectofinalexpo\Proyectofinalexpo\Application\obj\Debug\net9.0\ref\Application.dll
